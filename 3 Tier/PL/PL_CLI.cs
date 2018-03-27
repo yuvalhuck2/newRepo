@@ -49,21 +49,32 @@ namespace PL
                 switch (cmd)
                 {
                     case "1":
-                        // to be implimented
+                        Console.WriteLine("Please enter the product name:");
+                        cmd = ReceiveCmd();
+                        q = itsBL.FindProductByName(cmd);
+                        DisplayResult(q);
+
+                        Console.WriteLine("\nPress any key when ready");
+                        Console.ReadLine();
                         break;
 
                     case "2":
-                        // to be implimented
+                        //to compile implementation later...
+                        Console.WriteLine("Sorry, this feature has not been implimented yet");
+
+                        Console.WriteLine("\nPress any key when ready");
+                        Console.ReadLine();
                         break;
 
                     case "3":
-                        // to be implimented
+                        return;//quit the program
                         break;
 
                     default:
                         Console.WriteLine("That was an invalid command, please try again\n\n");
                         break;
                 }
+
 
 
             }
