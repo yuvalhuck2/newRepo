@@ -26,3 +26,16 @@ C:\Users\admin\Dropbox\Taught Classes\softw eng\3 Tier\MainProg1\bin\Debug\BL_Ba
 C:\Users\admin\Dropbox\Taught Classes\softw eng\3 Tier\MainProg1\obj\x86\Debug\MainProg.csprojResolveAssemblyReference.cache
 C:\Users\admin\Desktop\3 Tier\MainProg1\obj\x86\Debug\MainProg1.exe
 C:\Users\admin\Desktop\3 Tier\MainProg1\obj\x86\Debug\MainProg1.pdb
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\MainProg1\bin\Debug\MainProg1.exe
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\MainProg1\bin\Debug\MainProg1.pdb
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\MainProg1\bin\Debug\BL.dll
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\MainProg1\bin\Debug\DAL.dll
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\MainProg1\bin\Debug\PL.dll
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\MainProg1\bin\Debug\BL_Backend.dll
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\MainProg1\bin\Debug\BL.pdb
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\MainProg1\bin\Debug\DAL.pdb
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\MainProg1\bin\Debug\PL.pdb
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\MainProg1\bin\Debug\BL_Backend.pdb
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\MainProg1\obj\x86\Debug\MainProg.csprojResolveAssemblyReference.cache
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\MainProg1\obj\x86\Debug\MainProg1.exe
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\MainProg1\obj\x86\Debug\MainProg1.pdb

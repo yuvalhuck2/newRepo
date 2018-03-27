@@ -25,3 +25,12 @@ C:\Users\admin\Dropbox\Taught Classes\softw eng\3 Tier\BL\bin\Debug\DAL.pdb
 C:\Users\admin\Dropbox\Taught Classes\softw eng\3 Tier\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
 C:\Users\admin\Dropbox\Taught Classes\softw eng\3 Tier\BL\obj\Debug\BL.dll
 C:\Users\admin\Dropbox\Taught Classes\softw eng\3 Tier\BL\obj\Debug\BL.pdb
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\BL\bin\Debug\BL.dll
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\BL\bin\Debug\BL.pdb
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\BL\bin\Debug\BL_Backend.dll
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\BL\bin\Debug\DAL.dll
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\BL\bin\Debug\BL_Backend.pdb
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\BL\bin\Debug\DAL.pdb
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\BL\obj\Debug\BL.dll
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\BL\obj\Debug\BL.pdb

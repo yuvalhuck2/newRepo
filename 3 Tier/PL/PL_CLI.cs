@@ -38,12 +38,36 @@ namespace PL
 
             while (true)
             {
+                Console.WriteLine("Please select and option:");
+                Console.WriteLine("\t1. Query product by name");
+                Console.WriteLine("\t2. Add product");
+                Console.WriteLine("\t3. Exit");
+
                 cmd = ReceiveCmd();
+                Console.Clear(); //clear the screen
 
-                q = itsBL.FindProductByName(cmd);
+                switch (cmd)
+                {
+                    case "1":
+                        // to be implimented
+                        break;
 
-                DisplayResult(q);
+                    case "2":
+                        // to be implimented
+                        break;
+
+                    case "3":
+                        // to be implimented
+                        break;
+
+                    default:
+                        Console.WriteLine("That was an invalid command, please try again\n\n");
+                        break;
+                }
+
+
             }
+
         }
     }
 }

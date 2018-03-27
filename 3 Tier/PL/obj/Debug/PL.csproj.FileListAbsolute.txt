@@ -31,3 +31,14 @@ C:\Users\admin\Dropbox\Taught Classes\softw eng\3 Tier\PL\bin\Debug\DAL.pdb
 C:\Users\admin\Dropbox\Taught Classes\softw eng\3 Tier\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
 C:\Users\admin\Dropbox\Taught Classes\softw eng\3 Tier\PL\obj\Debug\PL.dll
 C:\Users\admin\Dropbox\Taught Classes\softw eng\3 Tier\PL\obj\Debug\PL.pdb
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\PL\obj\Debug\PL.dll
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\PL\obj\Debug\PL.pdb
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\PL\bin\Debug\PL.dll
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\PL\bin\Debug\PL.pdb
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\PL\bin\Debug\BL.dll
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\PL\bin\Debug\BL_Backend.dll
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\PL\bin\Debug\DAL.dll
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\PL\bin\Debug\BL.pdb
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\PL\bin\Debug\BL_Backend.pdb
+d:\documents\users\shahaz\Documents\newRepo\3 Tier\PL\bin\Debug\DAL.pdb
